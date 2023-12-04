@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jcancellier.github.io/text-viewer/static/css/main.ca57846c.css",
-    "main.js": "/jcancellier.github.io/text-viewer/static/js/main.b715f424.js",
-    "static/js/787.35accfcb.chunk.js": "/jcancellier.github.io/text-viewer/static/js/787.35accfcb.chunk.js",
-    "index.html": "/jcancellier.github.io/text-viewer/index.html",
-    "main.ca57846c.css.map": "/jcancellier.github.io/text-viewer/static/css/main.ca57846c.css.map",
-    "main.b715f424.js.map": "/jcancellier.github.io/text-viewer/static/js/main.b715f424.js.map",
-    "787.35accfcb.chunk.js.map": "/jcancellier.github.io/text-viewer/static/js/787.35accfcb.chunk.js.map"
+    "main.css": "/static/css/main.ca57846c.css",
+    "main.js": "/static/js/main.762ff39e.js",
+    "static/js/787.35accfcb.chunk.js": "/static/js/787.35accfcb.chunk.js",
+    "index.html": "/index.html",
+    "main.ca57846c.css.map": "/static/css/main.ca57846c.css.map",
+    "main.762ff39e.js.map": "/static/js/main.762ff39e.js.map",
+    "787.35accfcb.chunk.js.map": "/static/js/787.35accfcb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca57846c.css",
-    "static/js/main.b715f424.js"
+    "static/js/main.762ff39e.js"
   ]
 }
